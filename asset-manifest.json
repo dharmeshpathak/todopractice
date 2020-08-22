@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todopractice/static/css/main.5f361e03.chunk.css",
+    "main.js": "/todopractice/static/js/main.7d148232.chunk.js",
+    "main.js.map": "/todopractice/static/js/main.7d148232.chunk.js.map",
+    "runtime-main.js": "/todopractice/static/js/runtime-main.94e52fe9.js",
+    "runtime-main.js.map": "/todopractice/static/js/runtime-main.94e52fe9.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/todopractice/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c9e842b7.chunk.js": "/todopractice/static/js/2.c9e842b7.chunk.js",
+    "static/js/2.c9e842b7.chunk.js.map": "/todopractice/static/js/2.c9e842b7.chunk.js.map",
+    "index.html": "/todopractice/index.html",
+    "precache-manifest.4cea8909465ccfedd5a6f364274a8549.js": "/todopractice/precache-manifest.4cea8909465ccfedd5a6f364274a8549.js",
+    "service-worker.js": "/todopractice/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/todopractice/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/todopractice/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c9e842b7.chunk.js.LICENSE.txt": "/todopractice/static/js/2.c9e842b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94e52fe9.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c9e842b7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7d148232.chunk.js"
+  ]
+}
