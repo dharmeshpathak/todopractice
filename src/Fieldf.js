@@ -20,7 +20,7 @@ function Fieldf() {
   };
 
   const summit = ()=>{
-      console.log(Title,Text)
+      // console.log(Title,Text)
       if(Title !== "" && Text !== "" ){
           setValues((oldvalues)=>{
             return [...oldvalues,{ title:Title,
@@ -36,7 +36,7 @@ function Fieldf() {
 
 
   const removeNote = (id) => {
-    console.log("deleted");
+    // console.log("deleted");
   setValues((oldvalues)=>{
 return oldvalues.filter((item,index) =>{
 return id !== index
