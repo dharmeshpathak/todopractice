@@ -30,13 +30,13 @@ function Card(props) {
             </li>
             <li className="list-group-item">
               <button
-                className="btn btn-light my-1 px-1 py-1"
-                style={{ color: "red" }}
+                className="btn btn-light "
+                style={{ color: "red"}}
                 onClick={()=>
                     props.onSelect(props.id)
                     }
-              >
-                X
+              ><span style={{fontWeight:"bolder"}}>
+                X</span>
               </button>
             </li>
           </ul>
