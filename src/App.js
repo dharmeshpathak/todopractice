@@ -18,7 +18,9 @@ function App() {
         Todo - App
       </h1>
       <Fieldf />
+      <footer >
       <Footer />
+      </footer>
     </div>
   );
 }

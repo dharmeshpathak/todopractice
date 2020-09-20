@@ -12,11 +12,11 @@ function Fieldf() {
  
  
   const titleChange = e => {
-    setTitle(e.target.value);
+    setTitle(e.target.value.trim());
   };
   const textChange = e => {
    
-    setText(e.target.value);
+    setText(e.target.value.trim());
   };
 
   const summit = ()=>{
