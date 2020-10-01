@@ -5,10 +5,10 @@ function Card(props) {
   
   return (
     <>
-      <div style={{ display: "flex", textAlign: "center", padding: "20px" }}>
+      <div style={{ display: "flex", textAlign: "center", padding: "40px" }}>
         <div
           className="card shadow-lg p-3 mb-5 bg-white rounded"
-          style={{ width: "18rem" }}
+          style={{ width: "20rem" }}
         >
           <ul className="list-group list-group-flush">
             <li
@@ -25,9 +25,21 @@ function Card(props) {
               className="list-group-item"
               style={{ fontFamily: "Laila", color: "red" }}
             >
+    
+            
               {" "}
               {props.text}
             </li>
+    
+            <li
+              className="list-group-item"
+              style={{ fontFamily: "Majnu", color: "yellow" }}
+            >
+    
+              {" "}
+              {props.text}
+            </li>        
+    
             <li className="list-group-item">
               <button
                 className="btn btn-light "
@@ -35,7 +47,7 @@ function Card(props) {
                 onClick={()=>
                     props.onSelect(props.id)
                     }
-              ><span style={{fontWeight:"bolder"}}>
+              ><span style={{fontWeight:"bolder", padding: "10px"}}>
                 X</span>
               </button>
             </li>
