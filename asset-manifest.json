@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/todopractice/static/css/main.5f361e03.chunk.css",
-    "main.js": "/todopractice/static/js/main.3b2d6d21.chunk.js",
-    "main.js.map": "/todopractice/static/js/main.3b2d6d21.chunk.js.map",
+    "main.js": "/todopractice/static/js/main.2d6bd9f0.chunk.js",
+    "main.js.map": "/todopractice/static/js/main.2d6bd9f0.chunk.js.map",
     "runtime-main.js": "/todopractice/static/js/runtime-main.94e52fe9.js",
     "runtime-main.js.map": "/todopractice/static/js/runtime-main.94e52fe9.js.map",
     "static/css/2.75c4ecca.chunk.css": "/todopractice/static/css/2.75c4ecca.chunk.css",
     "static/js/2.c9e842b7.chunk.js": "/todopractice/static/js/2.c9e842b7.chunk.js",
     "static/js/2.c9e842b7.chunk.js.map": "/todopractice/static/js/2.c9e842b7.chunk.js.map",
     "index.html": "/todopractice/index.html",
-    "precache-manifest.70e09eaaf10f893ed25946c63f90b7f8.js": "/todopractice/precache-manifest.70e09eaaf10f893ed25946c63f90b7f8.js",
+    "precache-manifest.e4ce8996461a756d0a02d2856bf5427e.js": "/todopractice/precache-manifest.e4ce8996461a756d0a02d2856bf5427e.js",
     "service-worker.js": "/todopractice/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/todopractice/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/todopractice/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.c9e842b7.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3b2d6d21.chunk.js"
+    "static/js/main.2d6bd9f0.chunk.js"
   ]
 }

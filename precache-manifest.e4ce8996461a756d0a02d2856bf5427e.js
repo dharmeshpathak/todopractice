@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1d6769a0ca0611ef61cf99c33c4bfd0",
+    "revision": "883db5620cbd00de1b9d92e7b7acac8b",
     "url": "/todopractice/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todopractice/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "4c778a857695fd6810af",
+    "revision": "e0a471102d50551e1083",
     "url": "/todopractice/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todopractice/static/js/2.c9e842b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c778a857695fd6810af",
-    "url": "/todopractice/static/js/main.3b2d6d21.chunk.js"
+    "revision": "e0a471102d50551e1083",
+    "url": "/todopractice/static/js/main.2d6bd9f0.chunk.js"
   },
   {
     "revision": "c5ecd486fdde355e59b1",
